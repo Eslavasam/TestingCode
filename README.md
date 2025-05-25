@@ -14,5 +14,5 @@ This API retireves the best n stories from HAcker news, ordered by score
 2. Only retrieve "story" type items (not comments, polls,etc.)
 3. If a story is missing some fields we will use default values (empty string, 0, etc.)
 ## Enhancements for future
-1.Add Swagger/OpenAPI documentation with more details
-2.Add more detailed logging and metrics
+1. Add Swagger/OpenAPI documentation with more details
+2. Add more detailed logging and metrics
