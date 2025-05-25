@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ESLAVSAM\\source\\repos\\CodingTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E75C1D-7CD3-4453-95FE-DA21045595DA}|CodingTest\\CodingTest.csproj|c:\\users\\eslavsam\\source\\repos\\codingtest\\codingtest\\services\\hackernewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E75C1D-7CD3-4453-95FE-DA21045595DA}|CodingTest\\CodingTest.csproj|solutionrelative:codingtest\\services\\hackernewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E75C1D-7CD3-4453-95FE-DA21045595DA}|CodingTest\\CodingTest.csproj|c:\\users\\eslavsam\\source\\repos\\codingtest\\codingtest\\controllers\\storiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E75C1D-7CD3-4453-95FE-DA21045595DA}|CodingTest\\CodingTest.csproj|solutionrelative:codingtest\\controllers\\storiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E75C1D-7CD3-4453-95FE-DA21045595DA}|CodingTest\\CodingTest.csproj|c:\\users\\eslavsam\\source\\repos\\codingtest\\codingtest\\models\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E75C1D-7CD3-4453-95FE-DA21045595DA}|CodingTest\\CodingTest.csproj|solutionrelative:codingtest\\models\\story.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E75C1D-7CD3-4453-95FE-DA21045595DA}|CodingTest\\CodingTest.csproj|c:\\users\\eslavsam\\source\\repos\\codingtest\\codingtest\\services\\ihackernewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E75C1D-7CD3-4453-95FE-DA21045595DA}|CodingTest\\CodingTest.csproj|solutionrelative:codingtest\\services\\ihackernewsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1E75C1D-7CD3-4453-95FE-DA21045595DA}|CodingTest\\CodingTest.csproj|c:\\users\\eslavsam\\source\\repos\\codingtest\\codingtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1E75C1D-7CD3-4453-95FE-DA21045595DA}|CodingTest\\CodingTest.csproj|solutionrelative:codingtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ESLAVSAM\\source\\repos\\CodingTest\\CodingTest\\Program.cs",
+              "RelativeDocumentMoniker": "CodingTest\\Program.cs",
+              "ToolTip": "C:\\Users\\ESLAVSAM\\source\\repos\\CodingTest\\CodingTest\\Program.cs",
+              "RelativeToolTip": "CodingTest\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T03:03:35.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ESLAVSAM\\source\\repos\\CodingTest\\CodingTest\\Controllers\\StoriesController.cs",
+              "RelativeDocumentMoniker": "CodingTest\\Controllers\\StoriesController.cs",
+              "ToolTip": "C:\\Users\\ESLAVSAM\\source\\repos\\CodingTest\\CodingTest\\Controllers\\StoriesController.cs",
+              "RelativeToolTip": "CodingTest\\Controllers\\StoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T02:44:47.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HackerNewsService.cs",
+              "DocumentMoniker": "C:\\Users\\ESLAVSAM\\source\\repos\\CodingTest\\CodingTest\\Services\\HackerNewsService.cs",
+              "RelativeDocumentMoniker": "CodingTest\\Services\\HackerNewsService.cs",
+              "ToolTip": "C:\\Users\\ESLAVSAM\\source\\repos\\CodingTest\\CodingTest\\Services\\HackerNewsService.cs",
+              "RelativeToolTip": "CodingTest\\Services\\HackerNewsService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEgAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T01:43:36.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IHackerNewsService.cs",
+              "DocumentMoniker": "C:\\Users\\ESLAVSAM\\source\\repos\\CodingTest\\CodingTest\\Services\\IHackerNewsService.cs",
+              "RelativeDocumentMoniker": "CodingTest\\Services\\IHackerNewsService.cs",
+              "ToolTip": "C:\\Users\\ESLAVSAM\\source\\repos\\CodingTest\\CodingTest\\Services\\IHackerNewsService.cs",
+              "RelativeToolTip": "CodingTest\\Services\\IHackerNewsService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T01:39:59.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Story.cs",
+              "DocumentMoniker": "C:\\Users\\ESLAVSAM\\source\\repos\\CodingTest\\CodingTest\\Models\\Story.cs",
+              "RelativeDocumentMoniker": "CodingTest\\Models\\Story.cs",
+              "ToolTip": "C:\\Users\\ESLAVSAM\\source\\repos\\CodingTest\\CodingTest\\Models\\Story.cs",
+              "RelativeToolTip": "CodingTest\\Models\\Story.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T01:32:27.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "CodingTest.Controllers.StoriesController",
+    "Method": "GetBestStories",
+    "RelativePath": "api/stories/best",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "n",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
